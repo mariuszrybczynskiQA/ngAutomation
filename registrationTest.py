@@ -6,8 +6,8 @@ from selenium.webdriver.common.by import By
 from selenium.webdriver.remote.webelement import WebElement
 from selenium.webdriver.support.wait import WebDriverWait
 
-emailAddress = "ted3334@gmail.com"
-password = "Tfs333331234"
+emailAddress = "ted334434@gmail.com"
+password = "Tfs3ggg33331234"
 
 
 driver = webdriver.Firefox()
