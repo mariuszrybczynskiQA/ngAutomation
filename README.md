@@ -1,7 +1,7 @@
 # ngAutomation
  
 ### Requirements:
-1. python installed (Python 3.10.4): https://www.python.org/downloads/
+1. python installed (`Python 3.10.4`): https://www.python.org/downloads/
 2. IDE installed (prefferably PyCharm)
 3. Selenium : https://selenium-python.readthedocs.io/installation.html or can be installed via plugins inside the IDE
 4. Webdriver manager: can be installed via plugins inside the IDE
